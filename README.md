@@ -1,8 +1,8 @@
  ## Contacts 📝
 -------------------
-<a href="https://www.instagram.com/tmaswang_69/">![Instagram](https://img.shields.io/badge/tmaswang_69-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/thomas-wang-5044b01b3/">![LinkedIn](https://img.shields.io/badge/ThomasWang-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a> <a href="mailto:thomaswang003@gmail.com">![Gmail](https://img.shields.io/badge/thomaswang003-%231DA1F2.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
+<a href="https://www.instagram.com/tmaswang_69/">![Instagram](https://img.shields.io/badge/tmaswang_69-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/thomas-wang-5044b01b3/">![LinkedIn](https://img.shields.io/badge/ThomasWang-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a> <a href="mailto:thomaswang003@gmail.com">![Gmail](https://img.shields.io/badge/thomaswang003-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
  ![Discord](https://img.shields.io/badge/thootmas%237130-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-  <a href="https://open.spotify.com/user/21j5rrzcvdw7k6wq3yzr4uj7q?si=e10039c0705c4c6a">![Spotify](https://img.shields.io/badge/ThomasWang-%231DA1F2.svg?style=for-the-badge&logo=spotify&logoColor=white)</a>
+  <a href="https://open.spotify.com/user/21j5rrzcvdw7k6wq3yzr4uj7q?si=e10039c0705c4c6a">![Spotify](https://img.shields.io/badge/ThomasWang-%38B9AB.svg?style=for-the-badge&logo=spotify&logoColor=white)</a>
 
   
 ## About 👋
