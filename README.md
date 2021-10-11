@@ -7,7 +7,7 @@
   
 ## About 👋
 -------------------
-Hey guys 🙂 I'm Thomas Wang I live in Markham and I am an aspiring programmer :). I enjoy playing video games in my spare time and talking with new people! Aside from that, I also enjoy Mathematics, Coding (competitively and projects too), as well as listening to Music. Welcome to my Github profile :D feel free to DM me if you want (I'm probably procrastinating anyways). 
+Hey guys 🙂 I'm Thomas Wang I live in Markham and I am an aspiring programmer :). I enjoy playing video games in my spare time and talking with people! Aside from that, I also enjoy Mathematics, Coding (competitively and projects too), as well as listening to Music. Welcome to my Github profile :D feel free to DM me if you want (I'm probably procrastinating anyways). 
 
 
 ### Skills 📚
