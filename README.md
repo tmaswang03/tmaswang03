@@ -7,7 +7,7 @@
   
 ## About 👋
 -------------------
-Hey guys 🙂 I'm Thomas Wang I live in Markham and I am an aspiring programmer :). I enjoy playing video games in my spare time and talking with people! Aside from that, I also enjoy Mathematics, Coding (competitively and projects too), as well as listening to Music. Welcome to my Github profile :D feel free to DM me if you want (I'm probably procrastinating anyways). 
+Hey, I am Thomas and I am currently a Software Engineering student attending University of Waterloo. In my spare time I enjoy playing games, exploring different areas of Computer Science and talking with people. Aside from that, I also enjoy Competitive Programming and Mathematics and listening to music. If you want to learn more about me feel free to check out my website or any of my projects, enjoy!
 
 You can check out my competitive programming accounts at : https://clist.by/coder/tmaswang03/
 
