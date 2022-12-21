@@ -7,7 +7,7 @@
   
 ## About 👋
 -------------------
-Hey, I am Thomas and I am currently a Software Engineering student attending University of Waterloo. In my spare time I enjoy playing games, exploring different areas of Computer Science and talking with people. Aside from that, I also enjoy Competitive Programming and Mathematics and listening to music. If you want to learn more about me feel free to check out my website or any of my projects, enjoy!
+Hey, I am Thomas and I am currently a Software Engineering student attending University of Waterloo. In my spare time I enjoy playing games, exploring different areas of Computer Science and talking with people. Aside from that, I also like Competitive Programming and Mathematics and listening to music. If you want to learn more about me feel free to check out my website or any of my projects, enjoy!
 
 You can check out my competitive programming accounts at : https://clist.by/coder/tmaswang03/
 
